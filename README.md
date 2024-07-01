@@ -4,7 +4,7 @@
 - Pronouns: she/her/hers
 - [Resume]
 
-[Resume]: https://github.com/lifeparticle/Markdown-Cheatsheet](https://docs.google.com/document/d/1TfLMJdiCIPJURxVwb4Q_ra6QODwWEf22zFF-AQtLDtc/edit?usp=sharing)
+[Resume]: https://docs.google.com/document/d/1TfLMJdiCIPJURxVwb4Q_ra6QODwWEf22zFF-AQtLDtc/edit?usp=sharing
 
 <!---
 bellawick/bellawick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
